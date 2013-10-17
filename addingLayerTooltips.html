@@ -1,0 +1,67 @@
+<html>
+ <head>
+  <title>Exemple d'utilisation</title>
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/ext-all.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/xtheme-gray.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/api.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/MapFishApi_api.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/geoadmin.css" />
+<script type="text/javascript" src="http://api.geoportail.lu/build/latest/ext-base.js"></script>
+<script type="text/javascript" src="http://api.geoportail.lu/build/latest/ext-all.js"></script>
+<script type="text/javascript" src="http://api.geoportail.lu/build/latest/geoadmin.js"></script>
+<script type="text/javascript" src="http://api.geoportail.lu/api.js"></script>
+
+   </head>
+  <body>
+   <div id='map'/>
+   <script type="text/javascript">   
+		Ext.onReady(function(){
+			lux = new OpenLayers.Projection("EPSG:2169"); // the luxembourg coordinate reference system 
+			wgs = new OpenLayers.Projection("EPSG:4326"); // the WGS84 coordinate reference system, as used widely
+			lonLat = new OpenLayers.LonLat(6.12459923192738, 49.6188206257115 ).transform( wgs, lux );
+			geo = new geoadmin.API({lang: 'fr'});
+			geo.searchUrl="http://api.geoportail.lu/locationsearch"; 
+			var mapPanel = geo.createMapPanel({
+				mapInfo: {
+					zoom: 8,
+					easting: lonLat.lon,
+					northing: lonLat.lat,
+					bgLayer: 'pixelmaps-gray'
+				}
+			});
+			//You can't define and link the toolbar before the MapPanel, thus we need to apply tbar property to MapPanel after creation ! 
+			var toolbar = geo.createToolbar(["MapOpacity"]);
+			var mapWindow = Ext.apply(mapPanel, {tbar: toolbar});
+			
+			//Add a layerTree control 
+			var layerTree = geo.createLayerTree();
+
+			geo.addLayerToMap('roads');
+			geo.map.getLayersBy('layername','roads')[0].setVisibility(true);
+			geo.addLayerToMap('roads_labels');
+			geo.map.getLayersBy('layername','roads_labels')[0].setVisibility(true);
+			geo.addLayerToMap('addresses');
+			geo.map.getLayersBy('layername','addresses')[0].setVisibility(false);
+			geo.addLayerToMap('arrets_bus');
+			geo.map.getLayersBy('layername','arrets_bus')[0].setVisibility(true);
+			
+			geo.createTooltipFeature({
+				tooltipUrl:'http://map.geoportail.lu/bodfeature/search',
+				requestOnlyVisibleLayers:true
+			});
+			
+			var panel = new Ext.Panel({
+				id: "geoAPIPanel",
+				layout: "border",
+				renderTo: "map",
+				height: 600,
+				width: 960,
+				items: 	[	Ext.apply(mapWindow, {region: "center"}), 
+								Ext.apply(layerTree, {region: "west", width: 280}) 	
+							]
+			})			
+		 });		
+	</script>
+  </body>
+</html>
+

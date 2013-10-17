@@ -1,0 +1,116 @@
+<html>
+    <head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>GeoAPI Exemple</title>
+        
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/ext-all.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/xtheme-gray.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/api.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/MapFishApi_api.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/geoadmin.css" />
+<script type="text/javascript" src="http://api.geoportail.lu/build/latest/ext-base.js"></script>
+<script type="text/javascript" src="http://api.geoportail.lu/build/latest/ext-all.js"></script>
+<script type="text/javascript" src="http://api.geoportail.lu/build/latest/geoadmin.js"></script>
+<script type="text/javascript" src="http://api.geoportail.lu/api.js"></script>
+
+        
+		<script type="text/javascript" src="http://map.geoportail.lu/mfbase/openlayers/lib/OpenLayers/Strategy.js"></script>
+		<script type="text/javascript" src="http://map.geoportail.lu/mfbase/openlayers/lib/OpenLayers/Strategy/Fixed.js"></script>   
+</head>
+<body>
+<div id='map'/>
+<script type="text/javascript">
+   
+    Ext.onReady( function init() {
+		lux = new OpenLayers.Projection("EPSG:2169"); // the luxembourg coordinate reference system 
+		wgs = new OpenLayers.Projection("EPSG:4326"); // the WGS84 coordinate reference system
+		lonLat = new OpenLayers.LonLat(6.12459923192738, 49.6188206257115 ).transform( wgs, lux );
+		
+		geo = new geoadmin.API({lang: 'fr'});
+		var mapPanel = geo.createMapPanel({
+			mapInfo: {
+				zoom: 4,
+				easting: lonLat.lon,
+				northing: lonLat.lat,
+				bgLayer: 'pixelmaps-gray',
+				bgOpacity: 100 
+			}
+		});
+
+		geo.searchUrl="http://api.geoportail.lu/locationsearch"; 
+    var toolbar = geo.createToolbar(["MapOpacity"]);
+    var mapWindow = Ext.apply(mapPanel, {tbar: toolbar});
+    var layerTree = geo.createLayerTree();
+ 	
+		var kmlTroncons = new OpenLayers.Layer.Vector("Troncons de Route", {
+			projection: new OpenLayers.Projection("EPSG:4326"),
+			strategies: [new OpenLayers.Strategy.Fixed()],
+			protocol: new OpenLayers.Protocol.HTTP({
+				url: "troncons.kml?t=",
+				format: new OpenLayers.Format.KML({
+					extractStyles: true, 
+					extractAttributes: true,
+				})
+			})
+		});
+		kmlTroncons.bodid = kmlTroncons.id;
+		geo.map.addLayer(kmlTroncons);
+
+		var kmlCameras = new OpenLayers.Layer.Vector("Cameras CITA", {
+			projection: new OpenLayers.Projection("EPSG:4326"),
+			strategies: [new OpenLayers.Strategy.Fixed()],
+			protocol: new OpenLayers.Protocol.HTTP({
+				url: "cameras.kml?t=",
+				format: new OpenLayers.Format.KML({
+					extractStyles: true, 
+					extractAttributes: true,
+				})
+			})
+		});
+		kmlCameras.bodid = kmlCameras.id;
+		geo.map.addLayer(kmlCameras);
+
+			   
+	   var selectControl = new OpenLayers.Control.SelectFeature(kmlCameras, {
+				//hover: true,
+				onSelect: onFeatureSelect,
+				onUnselect: onFeatureUnselect
+		});
+		geo.map.addControl(selectControl);
+		selectControl.activate();
+
+        function onFeatureSelect(event) {
+            var content = event.attributes.description;
+                        popup =  new GeoExt.Popup({
+                                     map: this.map,
+                                     location: event.geometry,
+                                     title: event.attributes.name ,
+                                     width: 200,
+                                     html: content,
+                                     collapsible: false,
+                                    unpinnable: false
+                                });
+                 popup.show();
+        };
+                
+        function onFeatureUnselect(event) {
+            if(popup) {
+                popup.destroy();
+                delete popup;
+            }
+        };
+
+
+	var panel = new Ext.Panel({
+			id: "geoAPIPanel",
+			layout: "border",
+			renderTo: "map",
+			height: 400,
+			width: 960,
+			items:  [ Ext.apply(mapWindow,{region: 
+	"center"}),Ext.apply(layerTree,{region:"west", width:280})]
+	})
+	});			
+ </script>    
+ </body>
+</html>

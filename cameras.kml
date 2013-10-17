@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>my_Cameras_2012-03-30.kml</name>
+    <Style id="camera">
+      <IconStyle>
+        <Icon>
+          <href>cctv.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+	<Style id="camera0">
+		<IconStyle>
+			<Icon>
+				<href>cctv.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_cccam_107">
+		<IconStyle>
+			<color>7fffffff</color>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>http://www.cita.lu/info_trafic/cameras/images/cccam_107.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>my_Cameras</name>
+		<description>tous les caméras sur www.cita.lu</description>
+		<Placemark>
+			<name>A6 - Camera 59</name>
+			<description><![CDATA[<img src="http://www.cita.lu/info_trafic/cameras/images/cccam_59.jpg"/>
+			Test]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>5.921276190435281,49.63694075497587,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_3">
+			<name>A6 - Camera 3</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_3.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>5.921276000000001,49.63694099999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_6">
+			<name>A6 - Camera 6</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_6.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>5.962785,49.636012,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_11">
+			<name>A6 - Camera 11</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_11.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>5.978123,49.634825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_15">
+			<name>A6 - Camera 15</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_15.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.043661000000001,49.630825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_17">
+			<name>A6 - Camera 17</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_17.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.010675,49.639011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_21">
+			<name>A6 - Camera 21</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_21.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.078979,49.62589800000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_27">
+			<name>A6 - Camera 27</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_27.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.080064,49.60252499999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_30">
+			<name>A6 - Camera 30</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_30.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.08332,49.59029199999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_31">
+			<name>A4 - Camera 31</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_31.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.088534000000001,49.59176800000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_36">
+			<name>A4 - Camera 36</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_36.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.100459,49.600436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_37">
+			<name>A6 - Camera 37</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_37.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.090563999999999,49.583503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_41">
+			<name>A3 - Camera 41</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_41.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.124447,49.572918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_42">
+			<name>A6 - Camera 42</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_42.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.114231999999999,49.577968,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_46">
+			<name>A1 - Camera 46</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_46.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.129247,49.575586,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_47">
+			<name>A3 - Camera 47</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_47.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.12985,49.582179,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_51">
+			<name>A3 - Camera 51</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_51.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.129873,49.556573,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_53">
+			<name>A3 - Camera 53</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_53.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.114088,49.53667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_55">
+			<name>A3 - Camera 55</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_55.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.120874,49.54459899999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_59">
+			<name>A3 - Camera 59</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_59.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.116586,49.51637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_63">
+			<name>A3 - Camera 63</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_63.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.116818999999999,49.495326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_66">
+			<name>A3 - Camera 66</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_66.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.116903,49.49199399999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_70">
+			<name>A1 - Camera 70</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_70.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.144558,49.575627,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_77">
+			<name>A1 - Camera 77</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_77.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.154393,49.580374,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_81">
+			<name>A1 - Camera 81</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_81.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.169689,49.594752,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_84">
+			<name>A1 - Camera 84</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_84.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.177246000000001,49.611848,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_86">
+			<name>A1 - Camera 86</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_86.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.179317000000001,49.61758300000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_91">
+			<name>A1 - Camera 91</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_91.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.180478000000001,49.623833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_95">
+			<name>A1 - Camera 95</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_95.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.185899,49.639152,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_98">
+			<name>A1 - Camera 98</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_98.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.198055,49.641986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_100">
+			<name>A1 - Camera 100</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_100.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.211146,49.64289399999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_101">
+			<name>A1 - Camera 101</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_101.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.225322,49.641509,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_107">
+			<name>A1 - Camera 107</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_107.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.239804000000001,49.63723199999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_109">
+			<name>A1 - Camera 109</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_109.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.26779,49.64134499999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_110">
+			<name>A1 - Camera 110</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_110.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.274969,49.642347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_111">
+			<name>A1 - Camera 111</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_111.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.352548,49.662139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_112">
+			<name>A1 - Camera 112</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_112.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.398328,49.678677,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_114">
+			<name>A1 - Camera 114</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_114.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.446401,49.693237,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_119">
+			<name>A1 - Camera 119</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_119.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.488552,49.72446699999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_120">
+			<name>A4 - Camera 120</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_120.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.087511999999999,49.580267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_122">
+			<name>A4 - Camera 122</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_122.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.088293,49.572053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_125">
+			<name>A4 - Camera 125</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_125.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.080833,49.563694,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_133">
+			<name>A4 - Camera 133</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_133.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.021228,49.534645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_137">
+			<name>A4 - Camera 137</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_137.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.007207,49.525111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_139">
+			<name>A4 - Camera 139</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_139.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.001025,49.519332,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_140">
+			<name>A4 - Camera 140</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_140.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>5.976285,49.51289500000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_142">
+			<name>A4 - Camera 142</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_142.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>5.976285,49.51289500000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_143">
+			<name>A13 - Camera 143</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_143.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>5.919025,49.543606,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_145">
+			<name>A13 - Camera 145</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_145.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>5.927823,49.533797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_147">
+			<name>A13 - Camera 147</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_147.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>5.936548999999999,49.53212199999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_151">
+			<name>A13 - Camera 151</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_151.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>5.96547,49.52810600000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_154">
+			<name>A13 - Camera 154</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_154.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>5.971998999999999,49.519714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_161">
+			<name>A13 - Camera 161</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_161.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.035996,49.509339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_162">
+			<name>A13 - Camera 162</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_162.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.053242,49.49955199999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_164">
+			<name>A13 - Camera 164</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_164.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.08761,49.500064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_167">
+			<name>A13 - Camera 167</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_167.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.109468,49.496068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_200">
+			<name>A13 - Camera 200</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_200.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.124450000000001,49.498911,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_204">
+			<name>A13 - Camera 204</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_204.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.185405000000001,49.508372,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_215">
+			<name>A13 - Camera 215</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_215.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.197631,49.50698300000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_217">
+			<name>A13 - Camera 217</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_217.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.247724,49.516918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_218">
+			<name>A13 - Camera 218</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_218.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.275738,49.518114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_230">
+			<name>A13 - Camera 230</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_230.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.286245,49.515214,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_231">
+			<name>A13 - Camera 231</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_231.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.286245,49.515214,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_235">
+			<name>A13 - Camera 235</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_235.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.308690000000001,49.49859299999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_236">
+			<name>A13 - Camera 236</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_236.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.338178000000001,49.482711,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_237">
+			<name>A13 - Camera 237</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_237.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.338178000000001,49.482711,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_268">
+			<name>A13 - Camera 268</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_268.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.362983,49.478261,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_269">
+			<name>A13 - Camera 269</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_269.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.362983,49.478261,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_400">
+			<name>A7 - Camera 400</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_400.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.132427,49.706237,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_402">
+			<name>A7 - Camera 402</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_402.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.119908,49.708333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_403">
+			<name>A7 - Camera 403</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_403.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.119908,49.708333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_444">
+			<name>A7 - Camera 444</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_444.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.103481,49.732158,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_445">
+			<name>A7 - Camera 445</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_445.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.095430000000001,49.740257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_455">
+			<name>A7 - Camera 455</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_455.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.090164000000001,49.745886,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_458">
+			<name>A7 - Camera 458</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_458.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.091256999999999,49.751721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_466">
+			<name>A7 - Camera 466</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_466.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.108194,49.797193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="camera_471">
+			<name>A7 - Camera 471</name>
+			<description><![CDATA[<img height='200px' src='http://www.cita.lu/info_trafic/cameras/images/cccam_471.jpg'/>#$date$#]]></description>
+			<styleUrl>#camera0</styleUrl>
+			<Point>
+				<coordinates>6.098523,49.817915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sans titre - Repère</name>
+			<LookAt>
+				<longitude>6.097166153007168</longitude>
+				<latitude>49.56692374407734</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>16</tilt>
+				<range>7737.65285520311</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_cccam_107</styleUrl>
+			<Point>
+				<coordinates>6.097166153007168,49.56692374407735,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

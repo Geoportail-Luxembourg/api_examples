@@ -1,0 +1,45 @@
+<html>
+ <head>
+  <title>Exemple d'utilisation</title>
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/ext-all.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/xtheme-gray.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/api.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/MapFishApi_api.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/geoadmin.css" />
+<script type="text/javascript" src="http://api.geoportail.lu/build/latest/ext-base.js"></script>
+<script type="text/javascript" src="http://api.geoportail.lu/build/latest/ext-all.js"></script>
+<script type="text/javascript" src="http://api.geoportail.lu/build/latest/geoadmin.js"></script>
+<script type="text/javascript" src="http://api.geoportail.lu/api.js"></script>
+
+  </head>
+  <body>
+
+  <div id='ex1'/>
+     <script type="text/javascript">
+        Ext.onReady(function() {
+        geo8 = new geoadmin.API({lang: 'fr'});
+        geo8.createMap({
+            div: 'ex1',
+            easting: 83000,
+            northing: 94000,
+            zoom: 8,
+            bgOpacity: 0
+        });
+      
+		  
+	function cb(features){
+		var c = features.features[0].geometry.getCentroid();
+		geo8.map.setCenter([c.x,c.y]);
+					 
+	}
+		geo8.createMyMapLayer({mapId:'cf12fe433afa448bb6f3f47b4621127f',callback:cb});
+		
+		var ls = new OpenLayers.Control.LayerSwitcher();
+		geo8.map.addControl(ls);
+	
+	  
+    });
+</script>
+            
+  </body>
+</html>

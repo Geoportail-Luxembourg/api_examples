@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>GeoAPI Exemple</title>
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/ext-all.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/xtheme-gray.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/api.css" />
+<script type="text/javascript" src="http://api.geoportail.lu/build/latest/ext-base.js"></script>
+<script type="text/javascript" src="http://api.geoportail.lu/build/latest/ext-all.js"></script>
+<script type="text/javascript" src="http://api.geoportail.lu/build/latest/geoadmin.js"></script>
+<script type="text/javascript" src="http://api.geoportail.lu/api.js"></script>
+		
+		
+        <script type="text/javascript">   
+            function init(){
+				lux = new OpenLayers.Projection("EPSG:2169"); // the luxembourg coordinate reference system 
+				wgs = new OpenLayers.Projection("EPSG:4326"); // the WGS84 coordinate reference system, as used widely
+				lonLat = new OpenLayers.LonLat(6.12459923192738, 49.6188206257115 ).transform( wgs, lux );
+				geo = new geoadmin.API({lang: 'fr'});
+				geo.createMap({
+					div: 'map',
+					easting: lonLat.lon,
+					northing: lonLat.lat,
+					zoom: 10,
+					bgOpacity: 0,
+					bgLayer: 'pixelmaps-gray'
+				});			
+				geo.addLayerToMap('roads');
+				geo.addLayerToMap('roads_labels');
+				geo.addLayerToMap('arrets_bus');
+			};
+    </script>    
+    </head>
+    <body onload="init();">
+    <div id="map"></div>
+    </body>
+</html>

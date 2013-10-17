@@ -1,0 +1,75 @@
+<html>
+    <head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>GeoAPI Exemple</title>
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/ext-all.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/xtheme-gray.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/api.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/MapFishApi_api.css" />
+<link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/geoadmin.css" />
+<script type="text/javascript" src="http://api.geoportail.lu/build/latest/ext-base.js"></script>
+<script type="text/javascript" src="http://api.geoportail.lu/build/latest/ext-all.js"></script>
+<script type="text/javascript" src="http://api.geoportail.lu/build/latest/geoadmin.js"></script>
+<script type="text/javascript" src="http://api.geoportail.lu/api.js"></script>
+</head>
+<body>
+<div id='map'/>
+<script type="text/javascript">
+
+    Ext.onReady( function init() {
+		lux = new OpenLayers.Projection("EPSG:2169"); // the luxembourg coordinate reference system 
+		wgs = new OpenLayers.Projection("EPSG:4326"); // the WGS84 coordinate reference system
+		lonLat = new OpenLayers.LonLat(6.12459923192738, 49.6188206257115 ).transform( wgs, lux );
+		
+		geo = new geoadmin.API({lang: 'fr'});
+		var mapPanel = geo.createMapPanel({
+			mapInfo: {
+				zoom: 4,
+				easting: lonLat.lon,
+				northing: lonLat.lat,
+				bgLayer: 'webbasemap',
+				bgOpacity: 100 
+			}
+		});
+
+	geo.searchUrl="http://luigirm.geoportal.lu/locationsearch"; 
+    var toolbar = geo.createToolbar(["MapOpacity"]);
+    var mapWindow = Ext.apply(mapPanel, {tbar: toolbar});
+    var layerTree = geo.createLayerTree();
+	
+	//--------------------------------------------------------------------------------------
+	// Method example 
+	//--------------------------------------------------------------------------------------
+	
+	geo.reversegeocode({
+				easting: 90285,
+				northing: 81538,
+		}, function(success,json) {
+			if (success){
+				geo.showMarker({
+					iconPath: 'http://apps.geoportail.lu/exemple_api/exemplesWikiGeoAPI/lion.png', //absolute url to image file
+					graphicHeight: 35, 
+					graphicWidth: 35,
+					easting: json[0].easting,
+					northing: json[0].northing,
+					html: json[0].name,
+					title: "Distance from the point: " + Math.round(json[0].distance),
+					hover: true //display marker popup on mouseover
+				});
+			}
+			
+	});
+	
+	var panel = new Ext.Panel({
+			id: "geoAPIPanel",
+			layout: "border",
+			renderTo: "map",
+			height: 400,
+			width: 600,
+			items:  [ Ext.apply(mapWindow,{region: 
+	"center"})]
+	})
+	});			
+ </script>    
+ </body>
+</html>
