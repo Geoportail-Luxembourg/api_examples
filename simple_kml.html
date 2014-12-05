@@ -41,6 +41,12 @@
                 });
                 kmlTroncons.bodid = kmlTroncons.id;
                 geo.map.addLayer(kmlTroncons);
+
+                kmlTroncons.events.on({
+                    loadend: function(event) {
+                        geo.map.zoomToExtent(this.getDataExtent())
+                    }
+                })
             </script>
     </body>
 <html>
