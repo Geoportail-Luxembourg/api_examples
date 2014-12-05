@@ -37,7 +37,8 @@
                                                 extractStyles: false, 
                                                 extractAttributes: false,
                                             })
-                                        })
+                                        }),
+                                        styleMap: new OpenLayers.StyleMap({strokeWidth: 5, strokeColor: '#ee9900' })
                 });
                 kmlTroncons.bodid = kmlTroncons.id;
                 geo.map.addLayer(kmlTroncons);
