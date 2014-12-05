@@ -1,0 +1,3836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="PCCC">
+  <name>PCCC</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>PCCC</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00001">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>chemin vicinal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>3460,859239</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.110236259412071,49.74968883125887,0 6.110332142518432,49.74932254083109,0 6.110273735422606,49.74903705473311,0 6.110355394305,49.74827587297591,0 6.11036415991715,49.74705792331874,0 6.110374215712702,49.74682958652728,0 6.1103792456996,49.74671538081707,0 6.110483732836943,49.74591839505724,0 6.110765654749648,49.74462680893284,0 6.111172052497098,49.74271941368212,0 6.111294999879802,49.74222332332054,0 6.111722619278929,49.74049780055122,0 6.111928893528752,49.73986513314929,0 6.112193782615511,49.73932764550592,0 6.112495259225281,49.73889008566882,0 6.113068519783342,49.73829564966744,0 6.113950366874302,49.73743968303344,0 6.117002828400388,49.73455858250333,0 6.118505975078282,49.73312650614046,0 6.119527233044871,49.73212782576284,0 6.11996074969553,49.7316569965127,0 6.120313524910262,49.73118137498462,0 6.12071792637461,49.73055135498098,0 6.120890519270134,49.73020345722263,0 6.121022765796994,49.7298596779712,0 6.121107464548778,49.72955175566906,0 6.121244249184579,49.72893897274369,0 6.1213732625253,49.72806651015568,0 6.121594630739179,49.72695258404929,0 6.121760622179147,49.72600206620849,0 6.12214218615411,49.72396651357978,0 6.122307339087832,49.72296422497026,0 6.122388592750683,49.72246610181632,0 6.122585005570239,49.72155947895787,0 6.122713626146804,49.72106873899212,0 6.122917718019958,49.72041358369361,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>CR122</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>443,939753</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.130009212502026,49.69748471328656,0 6.129951371249457,49.69781554319096,0 6.129934746607932,49.69803966028762,0 6.130041594269747,49.69817310108581,0 6.130633809110226,49.6983333774978,0 6.131661999181622,49.6985684943032,0 6.132484564339612,49.69875017698097,0 6.133043897233417,49.69889442205131,0 6.133751344485704,49.6990013539054,0 6.134830579535748,49.69922578425037,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>chemin vicinal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>205,400433</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.110383102111114,49.76837899330393,0 6.110358803876723,49.76843886699221,0 6.11025400364008,49.76869711805331,0 6.110123849026929,49.76880452134176,0 6.109423505154235,49.76934263647949,0 6.108883161645008,49.76975581612282,0 6.108751908841287,49.76986193611607,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>chemin communal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td>fin PC15</td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>25.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>gM</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>NO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>284,228771</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.094055673344696,49.84467008340835,0 6.093950907248467,49.84455062247618,0 6.093702886748988,49.84420520160412,0 6.093555946661515,49.84397890118463,0 6.093340299695978,49.84353527736369,0 6.093143084588538,49.84307976038635,0 6.092986580360869,49.84278609702093,0 6.092746055089966,49.84247422826264,0 6.092609405999557,49.84230085388771,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>xhemin vicinal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>726,856864</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.130133471682979,49.65865760255877,0 6.130133418849185,49.65846845865238,0 6.13013346542095,49.65840721608058,0 6.130136252056577,49.6583397625558,0 6.130154793253297,49.65821709720677,0 6.130158407091936,49.65797231771124,0 6.130132502741835,49.65787556524936,0 6.130107914836332,49.65784715503099,0 6.129978065647791,49.65780007279047,0 6.129864625733687,49.65774944518507,0 6.12982735685349,49.65771440000424,0 6.129805885735536,49.65768552140159,0 6.129814117467613,49.65764824588316,0 6.129856763522122,49.65759546673713,0 6.129883924300721,49.65754442412245,0 6.129881234558533,49.65748673117505,0 6.129886746534743,49.65742904177226,0 6.129890882063609,49.65738555219471,0 6.129922361412402,49.65734118402816,0 6.129934693164059,49.65730479812388,0 6.129930297495383,49.65727196633729,0 6.129895118767486,49.65720804029338,0 6.129901085532747,49.65713874104937,0 6.12993078029107,49.65705894175544,0 6.129943153374297,49.65697018910341,0 6.129945326717046,49.65678668496846,0 6.129915550705701,49.65673033102677,0 6.12986955182642,49.65667371919696,0 6.129809427101439,49.65663287107243,0 6.129775259218838,49.6566186588509,0 6.129787607245699,49.65656097165585,0 6.129769883483325,49.65649706110064,0 6.129737132426718,49.65641805709957,0 6.129681142367944,49.6563337202252,0 6.129585521375826,49.65622984484118,0 6.129485777373176,49.65615348117344,0 6.129351196218807,49.65606442252072,0 6.128983418377412,49.65586524871051,0 6.128915950265298,49.65579738084584,0 6.128851754629005,49.65572102928583,0 6.128801229599756,49.6556446822284,0 6.128766423687279,49.65550647558204,0 6.128756314397683,49.65538993628348,0 6.128788600189899,49.65526384022316,0 6.128846766739791,49.65510949603937,0 6.128891947187454,49.65502696707642,0 6.128898776680471,49.65494510961137,0 6.128882471786543,49.654907142703,0 6.128830892253055,49.65487656722849,0 6.128848342399207,49.65484411485619,0 6.128879798032274,49.65482903670151,0 6.128965929445852,49.65482551468644,0 6.129114952523106,49.65481846281426,0 6.129411618579651,49.65481767271329,0 6.130036418134007,49.65478681059054,0 6.130386403979943,49.65478514770745,0 6.131169787377937,49.65475699205132,0 6.131745350372435,49.65475006978607,0 6.132148658905757,49.65474131687338,0 6.132368771203161,49.65473250752726,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>CR123</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td>Route en sens unique, cyclistes dans les 2 sens</td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>02.02.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>gM</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>3094,318653</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.119008419905237,49.71990390423811,0 6.122917718019958,49.72041358369361,0 6.119011356116491,49.71990200210208,0 6.119079027800956,49.71974026994896,0 6.119290621874026,49.71947963804974,0 6.119467099467021,49.71910861444258,0 6.119598804981319,49.71879122582158,0 6.119755624177255,49.7183377090548,0 6.119821792889625,49.71800155276166,0 6.119830272213923,49.7177454164004,0 6.11994568145381,49.71755335914864,0 6.120126946666803,49.71734531950292,0 6.120440009086646,49.71701459901939,0 6.120481277172907,49.71689188180984,0 6.120555466882526,49.71676757748818,0 6.120934742005346,49.71603666426454,0 6.121248082831355,49.71539643928862,0 6.121413095091932,49.71495359628936,0 6.121553389893278,49.7145374244849,0 6.121578274465506,49.71432932067288,0 6.121554030669662,49.71385438535096,0 6.121431116024814,49.7132929631797,0 6.121225894847681,49.71274858445795,0 6.120938365624863,49.71222551760373,0 6.12079056960511,49.71187860254184,0 6.120815486589871,49.71163848062256,0 6.12089806738351,49.71133434809219,0 6.120923120571685,49.71095014791695,0 6.120890915138049,49.71020305972841,0 6.120817272871754,49.70976439028553,0 6.120727250405913,49.7092467376945,0 6.12080979207928,49.70897995845658,0 6.120991167220711,49.70861716583937,0 6.120974958874779,49.70835568304923,0 6.12079426502873,49.70800341764465,0 6.120769656651391,49.70792336405116,0 6.120769926463956,49.70764054263717,0 6.120844536904684,49.70705892125459,0 6.121001442030789,49.70646132354018,0 6.121018046227242,49.7063065787483,0 6.121018304456166,49.70603442939018,0 6.121076028170162,49.70590051300382,0 6.121257260272854,49.70567646204996,0 6.121850258325765,49.70506302624644,0 6.122122009741096,49.70481766506158,0 6.122434821002902,49.70465769896077,0 6.122796982921989,49.7045137591732,0 6.123109770681156,49.70437513641834,0 6.123496718134666,49.70411380670053,0 6.123834293388607,49.7038524571859,0 6.124295433618829,49.70342039194628,0 6.124756452603346,49.70311639503905,0 6.12528323242396,49.70287645569673,0 6.125851069466961,49.70272724457036,0 6.126362074120204,49.70264578188888,0 6.12721787836578,49.7024859931897,0 6.127489502685912,49.70234734343036,0 6.127884590377899,49.70214470036823,0 6.128361898695208,49.70200611916433,0 6.128913293951174,49.70181419799363,0 6.128971007307992,49.70165946553621,0 6.129127638102796,49.70126463330184,0 6.129193741110823,49.70090178937253,0 6.129111659950752,49.70065629484068,0 6.128972013234999,49.70037876298366,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>chemin vicinal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>320,18628</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.109332113942246,49.75134244398821,0 6.109242655466611,49.75125001896673,0 6.109024932063235,49.75109751782875,0 6.108676418603314,49.750871354398,0 6.108263644913597,49.75065705201931,0 6.109595891507197,49.74950399655592,0 6.109843605998312,49.74958737779669,0 6.110243602491974,49.74968883487171,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>inexistant</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td>projet réalisation 2010</td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>42,673347</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.110383102111114,49.76837899330393,0 6.110465023253449,49.76840860136788,0 6.110835948658247,49.76842543430684,0 6.110883716362114,49.76840642682178,0 6.110916818415898,49.76836600340517,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>chemin vicinal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>NO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>7590,003319</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.106318056784478,49.77149471312774,0 6.106206233312416,49.7716269153916,0 6.106098816609409,49.7717581695479,0 6.106008068094992,49.77188905659815,0 6.10586225006692,49.77201864312418,0 6.105752091375171,49.77216622988937,0 6.105580199182017,49.77233110798321,0 6.105436754140007,49.7724856535429,0 6.105322699042961,49.77263545762546,0 6.105257939701179,49.77274171521446,0 6.105123016907119,49.77287293214653,0 6.105048625964509,49.77303388325597,0 6.10499213758322,49.77319905789535,0 6.104962532965473,49.77337031570896,0 6.104954971233806,49.77353920730882,0 6.104955548925823,49.77367880333691,0 6.104994988261606,49.77384133675636,0 6.105038837497936,49.77401977086028,0 6.105240320552117,49.77444330607617,0 6.10556014747196,49.7747212026643,0 6.106121950299809,49.77507598561788,0 6.106275923360173,49.77523524425099,0 6.106518113324837,49.77543043369199,0 6.106987977495832,49.77568283244997,0 6.107215568018374,49.77580664880621,0 6.107465176035764,49.77594950587825,0 6.107736877769721,49.7760495553474,0 6.107913005859023,49.77620664649366,0 6.108236100832071,49.776335267594,0 6.108375566473436,49.7764352481454,0 6.108603198503244,49.77653051527724,0 6.108779439887686,49.77659721133893,0 6.109007073468342,49.77669247767527,0 6.10918329755361,49.77677344591336,0 6.109403608216098,49.77684967799615,0 6.109594522280001,49.7769354099389,0 6.10985884737364,49.77706875424512,0 6.110115884000965,49.77715451805151,0 6.110350924368991,49.77720220998816,0 6.110600626412711,49.77727845421548,0 6.110872343424706,49.77737849631529,0 6.111065898229218,49.77747902946407,0 6.11125717230086,49.77753173224863,0 6.11146381890967,49.77761225676899,0 6.11168477665777,49.77769728315182,0 6.111905829342933,49.77779593642094,0 6.112133845651167,49.77787625866316,0 6.112368485006062,49.77795194886611,0 6.112589033324795,49.77801864030957,0 6.112802733159307,49.77809909563357,0 6.113023382236047,49.77817491818916,0 6.113237393217757,49.77826899921814,0 6.113437511994911,49.77837248580457,0 6.113623416046939,49.778480742246,0 6.11381648603712,49.77858436516758,0 6.113981655116886,49.77871101371047,0 6.114153667416877,49.77882853415729,0 6.114402114118081,49.77888111766114,0 6.114641974260282,49.77885137484407,0 6.114867001987818,49.7787943010763,0 6.115084771971588,49.77872816273893,0 6.115324107587446,49.77868015538734,0 6.115550973893511,49.7785938684078,0 6.115727357014799,49.77854161276938,0 6.115888920577666,49.77860829146641,0 6.116328838142231,49.77921857096397,0 6.116600998044054,49.77973200464322,0 6.116709875135504,49.78044508853738,0 6.116790368533442,49.7807591259247,0 6.116775367984579,49.78105409100193,0 6.11669414164271,49.78144417882307,0 6.116620166357565,49.78192466525421,0 6.116546333574338,49.78226718078425,0 6.116354808246605,49.78273334180571,0 6.115920675082693,49.78332309334855,0 6.115508768650254,49.78373206393898,0 6.115251163281196,49.78413634537419,0 6.114946078966778,49.78463662757186,0 6.114785775277574,49.78530833062978,0 6.114805901186131,49.78575899993886,0 6.114823416136953,49.7861163892437,0 6.115064856082714,49.78656739659834,0 6.115387664455413,49.78704805889713,0 6.115725311657529,49.7874002718822,0 6.116371480700487,49.78786204490679,0 6.117032399210622,49.78828575935555,0 6.11771544756141,49.78863811560489,0 6.1180752468051,49.78891421026289,0 6.118537737694757,49.78938064999622,0 6.118721106630757,49.78972803127204,0 6.118926477025844,49.79012299850365,0 6.119083173287812,49.790661292254,0 6.119176484876896,49.79120442704372,0 6.118961651481102,49.79170253589083,0 6.118696606945027,49.7921829421305,0 6.118541976538759,49.79248260616109,0 6.11901955940623,49.7925922300871,0 6.119173725751458,49.79275881028777,0 6.118997077291255,49.79302991934016,0 6.118739356549202,49.79352936016124,0 6.118702006875231,49.79413355917406,0 6.118937635271098,49.79474231452839,0 6.119929491459527,49.7959372620473,0 6.120066650925627,49.79603903976396,0 6.120164858426382,49.79609844806018,0 6.120169424044717,49.79614830790012,0 6.120184412835227,49.79620023084507,0 6.12025312474097,49.79627658985707,0 6.120384110212835,49.79631268755035,0 6.120490624775685,49.79634570669644,0 6.120654715800554,49.79644655144578,0 6.121242308536019,49.79685118110113,0 6.121895672803428,49.79766974503954,0 6.122203702449227,49.79838826135205,0 6.122783832967889,49.79895463913882,0 6.123746242167499,49.79945930831416,0 6.124707674333175,49.8000143952564,0 6.125575705102596,49.8003068320583,0 6.126530903092275,49.80071156710214,0 6.127484340844836,49.80115986977668,0 6.128204393546354,49.80166963473643,0 6.12874964727026,49.8020492076407,0 6.12933018163364,49.80225397521606,0 6.128932998154412,49.80257260269875,0 6.128347547266377,49.80278024750631,0 6.127602251571163,49.80291945961518,0 6.126698096942001,49.80294293442191,0 6.125985174476683,49.80283325880709,0 6.125669144807194,49.80277605402668,0 6.12551495980086,49.80256666544391,0 6.125309212032251,49.80248571173877,0 6.124809453423538,49.80239037855222,0 6.124162770238615,49.80219983650292,0 6.123163386325177,49.80187594380229,0 6.122678386772505,49.80172827395121,0 6.122325632490873,49.80165201619433,0 6.122119977930257,49.8014806625329,0 6.121804117464568,49.80125693226376,0 6.121385296630194,49.80109500927285,0 6.121268295687646,49.801031746589,0 6.121304679992701,49.80084282588851,0 6.120988714123977,49.80073803314334,0 6.120547396568277,49.80104709949227,0 6.119768198358853,49.80110387388135,0 6.118996382287195,49.80112734274367,0 6.118555409713207,49.80107482524377,0 6.118143921861339,49.80094143909541,0 6.117835153226999,49.80099364095587,0 6.117121796746643,49.80135015405424,0 6.116357235245412,49.80145924581678,0 6.115746900179466,49.80169209794141,0 6.115283621398471,49.80187743677126,0 6.114936464629361,49.80202796746382,0 6.114345353480131,49.80232031772431,0 6.113944473095844,49.80271509284166,0 6.112834244079116,49.80335116524872,0 6.112524961094957,49.80384105139672,0 6.112117446773426,49.80427847962184,0 6.111317749775168,49.80529629654551,0 6.111074432439233,49.80592893776565,0 6.110551062907635,49.80716089807658,0 6.110491585447359,49.80773177887856,0 6.110077577511518,49.80873124684767,0 6.109864695659872,49.80908497748151,0 6.109649692059221,49.80932043322129,0 6.109354244691647,49.80955958673001,0 6.108466080831869,49.81018146354171,0 6.107841427828082,49.81071345586849,0 6.107149569140096,49.81134585750888,0 6.106531260854713,49.81194023233257,0 6.105655746494067,49.81242980144795,0 6.104876177035193,49.8126196877202,0 6.104096651001506,49.81277150850078,0 6.103434236240132,49.81331826752131,0 6.102896992490607,49.81371760729699,0 6.102499598827584,49.81399332534795,0 6.101962736696525,49.81409769104669,0 6.100940620802541,49.81419701981294,0 6.100197923815716,49.81427271398565,0 6.099756714690431,49.81432003391968,0 6.099337667022776,49.81429124284794,0 6.09905832892454,49.81425301859471,0 6.098837314947754,49.81416273518962,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>chemin communal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>2533,5244</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.134830579535748,49.69922578425037,0 6.134970616805653,49.69895901054098,0 6.135061261522053,49.69873491245027,0 6.135151947574265,49.69844677956908,0 6.135432631231825,49.69696337614237,0 6.135399886091117,49.69671789854134,0 6.13532595178271,49.69655672321926,0 6.135326053134186,49.69640197156571,0 6.135457970272976,49.69595376191062,0 6.13558983299541,49.69558559594881,0 6.135713308828629,49.69546289529847,0 6.135952018835497,49.69523883658795,0 6.136569461460746,49.69450259749238,0 6.136808206147199,49.69420916524047,0 6.1369974489567,49.69414518004418,0 6.137268958195254,49.69407054279628,0 6.137984693743166,49.69397467275847,0 6.139152907275896,49.69380420198406,0 6.139712326748204,49.69372962847371,0 6.139701202803481,49.69368058243082,0 6.139668370555132,49.69355250416778,0 6.139569741531544,49.69340306496448,0 6.139380747358218,49.69304549048155,0 6.139019099725779,49.6925331210392,0 6.138714944669639,49.6921835209693,0 6.138090145659572,49.69156969425163,0 6.137424271442409,49.69089715480689,0 6.137029757826636,49.69038477139188,0 6.136692880366518,49.68979235693283,0 6.136505162057259,49.68926708003097,0 6.136328756595538,49.68932260928602,0 6.136211189035296,49.68930405214297,0 6.136177657546853,49.68920705766362,0 6.136215605019999,49.68909840229541,0 6.136289718012876,49.68896501548721,0 6.136380280623271,49.68883163301313,0 6.136421454303493,49.68875693607679,0 6.136446191369861,49.68866088951193,0 6.136438050691213,49.68852748069756,0 6.136405274703995,49.68832949642982,0 6.136306954094521,49.68772647173461,0 6.136274417519516,49.68715548192569,0 6.136242049986256,49.68631767869801,0 6.136275451393542,49.6855279186441,0 6.136349652085337,49.68524511584673,0 6.136399176848354,49.68496764340752,0 6.136399028349054,49.68470077415143,0 6.136413033297865,49.68448483841622,0 6.136454834401172,49.68416993750341,0 6.136607781087911,49.68352215958554,0 6.136913502722629,49.6824875292354,0 6.13692748099044,49.68230758297356,0 6.137385966706408,49.68086810340486,0 6.137247414023778,49.68068811852918,0 6.137261412669808,49.68047218164051,0 6.137275501049625,49.68011228621126,0 6.137414487010327,49.67958147017274,0 6.137608912464811,49.67908665776346,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>CR183</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td>étude</td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>299,948871</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.109927556943001,49.75389045074267,0 6.109923980409405,49.75380956884477,0 6.10992408974922,49.75371679576941,0 6.109970168844876,49.75200169273484,0 6.109966625991552,49.75189226600163,0 6.109948338903627,49.7518327865474,0 6.1099116919585,49.75177567606732,0 6.109864032825382,49.75171618206056,0 6.109809016385917,49.75166857918877,0 6.109439951084538,49.7514169082367,0 6.109376134351432,49.75137339067203,0 6.109332113942246,49.75134244398821,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>chemin en terre battue / gravier</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>99,838982</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.129980681094358,49.66807197118531,0 6.129768206671134,49.66793392901079,0 6.129548404088151,49.66779588405792,0 6.128778722705162,49.6677956309649,0 6.128772325749945,49.66779721663478,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>asphalte</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td>réalisation 2009</td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>25.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>gM</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>1212,921309</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.098837314947754,49.81416273518962,0 6.098920444997387,49.81425791643675,0 6.099138206759502,49.81467601603223,0 6.099270095942873,49.81500079822516,0 6.099302891453427,49.81520896072045,0 6.09927422797423,49.8152717591077,0 6.099106496678735,49.81533826718661,0 6.098828473882702,49.81540566028759,0 6.098588759496749,49.8154197912492,0 6.098441752001409,49.81538925623722,0 6.098316961957069,49.81520232786725,0 6.098114242406745,49.8150547221987,0 6.097946636636254,49.8150327369944,0 6.097792573959031,49.81505154049637,0 6.097696247518996,49.81510585747949,0 6.097632927629099,49.81522098650044,0 6.097621178689754,49.81540673141232,0 6.097546022166379,49.8157670462135,0 6.097517043493848,49.81595649568425,0 6.097482412662829,49.81608278670849,0 6.097482172331787,49.8162499637606,0 6.097481985407234,49.81637998955415,0 6.097545035037032,49.81645432915801,0 6.097510500018438,49.81651374846405,0 6.097464520932896,49.81654715622936,0 6.097211871830363,49.81656186454406,0 6.097125759066549,49.81655438168502,0 6.09710269151639,49.8166249544494,0 6.097102347845914,49.81686271634324,0 6.097038906005698,49.8170595755938,0 6.096975403083962,49.81729730009537,0 6.096911981697957,49.81747929858283,0 6.096744783450751,49.81795472292851,0 6.096675429670656,49.81826674442053,0 6.096669688087537,49.8182667409247,0 6.096473776473244,49.81887939179242,0 6.096232316117138,49.81959865186074,0 6.095997007075336,49.82021680870166,0 6.095773667757672,49.82086608280527,0 6.095713264606984,49.82106825745535,0 6.095550236261242,49.82157368602821,0 6.095339153030778,49.82205575283745,0 6.095206332002246,49.82245231626872,0 6.095085546814456,49.82283722072147,0 6.095012914985845,49.82317549167025,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>chemin communal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td>réalisation 2009</td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>25.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>gM</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>2086,421512</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.093677497163083,49.83971321553058,0 6.093851772952449,49.83977554484587,0 6.095217053633838,49.83951974889063,0 6.096606353787398,49.83927561684613,0 6.097532525152155,49.83912840819047,0 6.097502572487017,49.8390506166072,0 6.096969320391327,49.8377553647425,0 6.096597688837719,49.83696962603882,0 6.096532033767398,49.83663904844094,0 6.096556497129988,49.83635518993841,0 6.096604856533542,49.83617633967631,0 6.096593008198329,49.83605578403869,0 6.096419439428422,49.83551515129524,0 6.096365528460744,49.83537901518982,0 6.095970219235694,49.83435993877704,0 6.095443278376841,49.83292469013328,0 6.095132080502731,49.83196788142218,0 6.095120815122124,49.83145845666962,0 6.095074086740016,49.83054069910015,0 6.094960665128616,49.83000399044011,0 6.094932607756316,49.82866237685416,0 6.095017420969992,49.82822300848912,0 6.095036543637965,49.82749194744364,0 6.095008526078828,49.82612311318071,0 6.094932896649216,49.8244353760145,0 6.094958075826455,49.82367320966867,0 6.095012914985845,49.82317549167025,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>chemin communal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>337,230644</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.128772325749945,49.66779721663478,0 6.128529443448969,49.6678573981707,0 6.127957832319364,49.66766689775709,0 6.12778938918383,49.66747653257457,0 6.127716889528819,49.66648690604064,0 6.127775587512645,49.66641556069025,0 6.127936884193718,49.66637279632781,0 6.129542165354421,49.66638284515527,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>chemin communal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>164,38057</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.137608912464811,49.67908665776346,0 6.137442532930482,49.67906861979792,0 6.137179047146304,49.67912253751462,0 6.136652137305983,49.67913139671919,0 6.13534659370099,49.67912678821898,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>chemin communal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>269,727557</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.130451247727813,49.66181983387216,0 6.130379271643109,49.66159842845308,0 6.130315536650318,49.66147314484412,0 6.129878649810732,49.66129305411974,0 6.129854054619148,49.66112568468271,0 6.12992746296198,49.66097346149604,0 6.130088870180927,49.66075941707787,0 6.130165440090504,49.66051683957563,0 6.130191809051124,49.66032649850465,0 6.130133464275636,49.6599458634973,0 6.130177703267414,49.65960332259282,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>CR233/chemin communal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td>PC sur chemin séparé par bande infranchissable</td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>gM</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>576,682721</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.13398702744613,49.64697834082489,0 6.134186037145244,49.64766838252587,0 6.134235294842086,49.64793390987973,0 6.134220755854693,49.64831840873505,0 6.134270008178945,49.64859313827027,0 6.13437562925473,49.64885868245726,0 6.134460024511523,49.64932096656245,0 6.134586540186366,49.65005355344434,0 6.134543942158506,49.65033738803582,0 6.134522660652209,49.65045187622221,0 6.134430861890213,49.6505388798245,0 6.133414072493597,49.65126713364657,0 6.133265650750589,49.65156470456397,0 6.133152517570675,49.65183032559197,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>CR123</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td>Route en sens unique, cyclistes dans les 2 sens</td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>381,462316</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.128972013234999,49.70037876298366,0 6.128939305358744,49.7001226115605,0 6.128947603570427,49.70003189832225,0 6.1289807488893,49.69973094381424,0 6.128898800942787,49.69932002536837,0 6.128743009353695,49.69865827681409,0 6.128685784398014,49.69819933896292,0 6.128776372352461,49.69808197178519,0 6.128941060334133,49.69788992037986,0 6.129303293987511,49.69756452806922,0 6.129648901161399,49.6974579156073,0 6.130009212502026,49.69748471328656,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>chemin communal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>1099,896734</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.134055492025265,49.67676276684553,0 6.13371099169366,49.67660737324467,0 6.133395206437902,49.67645819882165,0 6.13303161356027,49.67623446768828,0 6.13286902801875,49.67602943067502,0 6.132716079071579,49.67573743093787,0 6.132563166789739,49.67539449485616,0 6.132314633803192,49.67491611242095,0 6.1322189886826,49.67481048272117,0 6.132171208713122,49.67469865653237,0 6.132123496057777,49.67449365314872,0 6.132142787610086,49.67428867006581,0 6.131187368915926,49.67188814096667,0 6.130498148728943,49.67198731248296,0 6.130383304564205,49.67196864053938,0 6.130335559785817,49.67181954265369,0 6.130259290706581,49.67142196389192,0 6.130240341091867,49.67116727426481,0 6.130336137904317,49.67105549303468,0 6.130043389253483,49.66949947349393,0 6.130031003061913,49.66937083928927,0 6.130097082829305,49.66923288692404,0 6.130192501290953,49.66907115576203,0 6.130236693493234,49.66879522361374,0 6.130147600384996,49.66860243720692,0 6.130052081252494,49.66835393559001,0 6.129988006865175,49.66807673063291,0 6.129980681094358,49.66807197118531,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>inexistant</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>93,732986</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.110916818415898,49.76836600340517,0 6.111038226494646,49.76818527267742,0 6.111155934687043,49.76802832866369,0 6.111383994787934,49.76772157268116,0 6.111461206185362,49.76764786680501,0 6.111494300398309,49.76761220022309,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>chemin vicinal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td>raccordé en 2009</td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>25.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>gM</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>NO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>492,610258</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.092609405999557,49.84230085388771,0 6.092507198498293,49.84223264169012,0 6.092315149987168,49.84216395599886,0 6.092136446566943,49.84203528859266,0 6.092030642361015,49.84189809745222,0 6.09191164188838,49.84172661722524,0 6.091838955734535,49.84159801819668,0 6.091660349186615,49.84140935915763,0 6.091494894979802,49.84128498342309,0 6.091389041980677,49.84118207296108,0 6.09130974578813,49.84104489848433,0 6.091203974351632,49.8408905668275,0 6.091124692613094,49.84074482234681,0 6.091085146154192,49.84061195963919,0 6.091125116437203,49.84047486331667,0 6.09129755498869,49.84036784931935,0 6.091430197857114,49.84028651958415,0 6.09152052331466,49.84023645039612,0 6.091629143921988,49.84017523838216,0 6.091837021967593,49.84007756908608,0 6.092162020362172,49.83987945724734,0 6.092872298332531,49.83937827587108,0 6.09298059960031,49.83933168116443,0 6.093094822436623,49.83934342054268,0 6.093160915211307,49.83937457222577,0 6.093226847794083,49.83951071740454,0 6.093365058308232,49.83956524751373,0 6.093677497163083,49.83971321553058,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>chemin communal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>594,378571</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.129542165354421,49.66638284515527,0 6.129439858151869,49.66597840771918,0 6.129476588779658,49.66587375018496,0 6.129364288332151,49.66553271331419,0 6.129180886153552,49.6647629823179,0 6.128997635386007,49.66380746806789,0 6.128967256110143,49.66344252749009,0 6.129069604124843,49.66327668423853,0 6.129284311332429,49.66321703893947,0 6.129877241430294,49.66313761000983,0 6.130429257317755,49.66309134153115,0 6.130490632522309,49.66303164514689,0 6.130491452151811,49.66194348976948,0 6.13045125188305,49.66181983387348,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>passage pour piétons N7</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td>itinéraire en service</td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>167,818573</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.130133471682979,49.65865760255877,0 6.130133672710962,49.65865915535591,0 6.130145745259756,49.65875262977824,0 6.130178285080006,49.65883733201194,0 6.130261968900141,49.65898049248814,0 6.130544600620328,49.65901348379308,0 6.130742455631006,49.65905160850709,0 6.130720335150513,49.65920044987902,0 6.13068370173957,49.65921335198332,0 6.130317268992751,49.65918944662848,0 6.130244137865459,49.65923693402537,0 6.130185148403247,49.65945107807012,0 6.130177703267414,49.65960332259282,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>CR124</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>159,663861</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.133039922504794,49.67803588697441,0 6.133106995299039,49.6779427305258,0 6.133336934206408,49.67766326755194,0 6.133566916277189,49.67731547511151,0 6.133825587023005,49.67700496043776,0 6.134055492025265,49.67676276684553,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>chemin communal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>371,013194</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.13534659370099,49.67912678821898,0 6.135334565245035,49.67960790824401,0 6.133499241241479,49.67962506142747,0 6.13345071465276,49.67923597180147,0 6.133393735437924,49.67857750619317,0 6.133279134228901,49.67818613048859,0 6.133039921740507,49.67803697667062,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>inexistant</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>1632,031801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.111494300398309,49.76761220022309,0 6.111476024647604,49.76753606940081,0 6.111366066439681,49.76734333284865,0 6.111135145087832,49.76694833916584,0 6.111080216003644,49.76681034220506,0 6.111043667819507,49.76665570145188,0 6.111018146549776,49.76649393007043,0 6.110999946272842,49.76635357192283,0 6.110985919912479,49.76578027124966,0 6.11094640114846,49.76502141224187,0 6.110932018961568,49.76475497848064,0 6.110880907615441,49.7644932847551,0 6.110818733357489,49.76427202514993,0 6.110752790297809,49.76413402170622,0 6.110642911877185,49.76388181410356,0 6.110500007636737,49.7636081814155,0 6.110382719799175,49.76341306125175,0 6.109876803518028,49.76267775950934,0 6.109117974176816,49.7615593402794,0 6.108905376397168,49.76123333618379,0 6.108806411202983,49.761081042087,0 6.10869651825833,49.76085499922024,0 6.108630620259083,49.76068844972496,0 6.108583137640663,49.76047671113115,0 6.10855404445135,49.76024119405546,0 6.108554334448209,49.76000093393582,0 6.108591313104154,49.75978686001294,0 6.108650345215936,49.75955614542365,0 6.108705608607764,49.75940392908626,0 6.108816055706045,49.75916610348989,0 6.1089448629103,49.75892828701804,0 6.109091998726963,49.75871426826994,0 6.109275879434012,49.75847885799713,0 6.109452389932698,49.7582648525685,0 6.109599462288774,49.75810078763745,0 6.109783324162092,49.75787727131488,0 6.109959879294634,49.75762044656744,0 6.110099683393327,49.75738977105988,0 6.110206399556227,49.75719238180786,0 6.110302105535463,49.75699023002309,0 6.110401293717165,49.75694983823469,0 6.110474772970872,49.75691419258325,0 6.110526239042616,49.75686188340339,0 6.110662532272728,49.7564884769548,0 6.110710473595639,49.75631008926018,0 6.110740030946321,49.75615310230446,0 6.110717306815609,49.75595921778145,0 6.110710456407809,49.75553578585676,0 6.110697568768119,49.755385072614,0 6.110555495528716,49.75520659205883,0 6.110569517632534,49.7549895319456,0 6.110574392371816,49.75474570630614,0 6.110602244156126,49.75447512994808,0 6.110607035571456,49.75430266763085,0 6.110267424140189,49.75428763397532,0 6.110166697076394,49.75407943803893,0 6.110042957409839,49.75392772778994,0 6.109927556943001,49.75389045074267,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>CR233/chemin communal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td>PC sur chemin séparé par bande infranchissable</td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>no</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>327,713702</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.133152517570675,49.65183032559197,0 6.132368771203161,49.65473250752726,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>chemin vicinal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>26.01.10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>mG</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>107,075362</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.106942804111164,49.770644497002,0 6.106804180634172,49.7707090880556,0 6.106743583783548,49.77086070521785,0 6.10667614354461,49.77102173028477,0 6.10659439779942,49.77117361771492,0 6.106469589298132,49.77133017927338,0 6.106318056784478,49.77149471312774,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>PC15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PC15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FILE_NAME</td>
+<td>PC15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_EXISTAN</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>PC_ASPHALT</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_FORET</td>
+<td>no</td>
+</tr>
+<tr>
+<td>NOM_PC</td>
+<td>PC de l'Alzette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ASSISE</td>
+<td>chemin vicinal</td>
+</tr>
+<tr>
+<td>SIGNAL</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr>
+<td>CHEM_COM</td>
+<td>no</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHEM_VIC</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>SIGNAUX</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ETUDE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>PC_Route_separe</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_ROUTE_ASSISE</td>
+<td>no</td>
+</tr>
+<tr>
+<td>CARTE_LVI</td>
+<td>yes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Liaison</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>DATE_MODIF</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARAPHE</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>OK</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PC_PROJET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>MAUV_REVET</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Polyline</td>
+</tr>
+<tr>
+<td>SHAPE.LEN</td>
+<td>221,105261</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>httplink</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle01</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampedToGround</altitudeMode>
+          <coordinates> 6.108751908841287,49.76986193611607,0 6.108754162891339,49.76997179345084,0 6.108729031323773,49.77012771365921,0 6.10866159729129,49.77028874080334,0 6.108582785544757,49.77037482693255,0 6.108557794110743,49.77044394775828,0 6.108543452623836,49.77053496735062,0 6.108497108075955,49.77060868690003,0 6.108356416781835,49.77072844780551,0 6.108226402736074,49.77084590964711,0 6.108103121636503,49.77090676361986,0 6.107982571008596,49.77092759383593,0 6.107838676475209,49.77090187044392,0 6.10758168276856,49.770811343605,0 6.107376088986269,49.77073987348379,0 6.107141110814858,49.77066838775919,0 6.106942804111164,49.770644497002,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="LineStyle01">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff1134fa</color>
+      <width>2.000000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>00000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

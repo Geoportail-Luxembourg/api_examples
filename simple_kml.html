@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <title>Exemple d'utilisation</title>
+        <link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/ext-all.css" />
+        <link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/xtheme-gray.css" />
+        <link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/api.css" />
+        <link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/MapFishApi_api.css" />
+        <link rel="stylesheet" type="text/css" href="http://api.geoportail.lu/build/latest/geoadmin.css" />
+        <script type="text/javascript" src="http://api.geoportail.lu/build/latest/ext-base.js"></script>
+        <script type="text/javascript" src="http://api.geoportail.lu/build/latest/ext-all.js"></script>
+        <script type="text/javascript" src="http://api.geoportail.lu/build/latest/geoadmin.js"></script>
+        <script type="text/javascript" src="http://api.geoportail.lu/api.js"></script>o
+        <script type="text/javascript" src="http://api.geoportail.lu/mfbase/openlayers/lib/OpenLayers/Strategy.js"></script>
+        <script type="text/javascript" src="http://api.geoportail.lu/mfbase/openlayers/lib/OpenLayers/Strategy/Fixed.js"></script>   
+
+    </head>
+    <body>
+        <div id='map' style="width:600px;height:400px"/>
+            <script type="text/javascript">   
+                lux = new OpenLayers.Projection("EPSG:2169"); // the luxembourg coordinate reference system 
+                wgs = new OpenLayers.Projection("EPSG:4326"); // the WGS84 coordinate reference system, as used widely
+                lonLat = new OpenLayers.LonLat(6.12459923192738, 49.6188206257115 ).transform( wgs, lux );
+                geo = new geoadmin.API({lang: 'fr'});
+                geo.createMap({
+                    div: 'map',
+                    easting: lonLat.lon,
+                    northing: lonLat.lat,
+                    zoom: 8,
+                    bgLayer: 'pixelmaps'
+                    });
+                var kmlTroncons = new OpenLayers.Layer.Vector("PC 15", {
+                                        projection: wgs, 
+                                        strategies: [new OpenLayers.Strategy.Fixed()],
+                                        protocol: new OpenLayers.Protocol.HTTP({
+                                        url: "pc15.kml",
+                                            format: new OpenLayers.Format.KML({
+                                                extractStyles: false, 
+                                                extractAttributes: false,
+                                            })
+                                        })
+                });
+                kmlTroncons.bodid = kmlTroncons.id;
+                geo.map.addLayer(kmlTroncons);
+            </script>
+    </body>
+<html>
